@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+temp/
+cloudflared
+cloudflared.exe
+extracted_output.*
+sample_document.pdf
+test_sample.pdf
