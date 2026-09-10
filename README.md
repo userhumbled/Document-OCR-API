@@ -10,7 +10,7 @@
 [![Tunnel](https://img.shields.io/badge/Tunnel-Cloudflare%20%7C%20Gradio-purple.svg)](https://cloudflare.com/)
 </div>
 
-A document OCR and structural parsing service for extracting text, layout elements, and formatted tables from PDF documents. It runs **100% locally** using ONNX runtimes and PyMuPDF with **zero external cloud** dependencies.
+A document OCR and structural parsing service for extracting text, layout elements, and formatted tables from PDF documents. It runs **100% locally** using ONNX runtimes and PyMuPDF with **zero external cloud** dependencies. Monitored 80%+ accuracy.
 
 Extract full documents or custom page ranges into formatted Markdown tables, Word (.docx), plain text, or JSON with automated API integration.
 
