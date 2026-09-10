@@ -16,7 +16,7 @@ Extract full documents or custom page ranges into formatted Markdown tables, Wor
 
 ##
 
-> **Demo video** [link]([ocr_demo_test.pdf](https://youtu.be/85EKcOm-m2I?si=UqkVu-mDTtAm2zD7))
+> **Demo video** [link](https://youtu.be/85EKcOm-m2I?si=UqkVu-mDTtAm2zD7)
 
 > **Tested Demo Scan:** [ocr_demo_test.pdf](ocr_demo_test.pdf)
 
